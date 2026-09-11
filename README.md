@@ -25,11 +25,8 @@ I primarily work with **Node.js and Express.js**, with experience working with d
 ### Databases & Data Management
 
 * MongoDB
-* PostgreSQL
-* MySQL
 * Database schema design
 * Data modeling and relationships
-* Query optimization
 * Database-backed REST APIs
 
 ### Authentication & Security
@@ -59,7 +56,6 @@ I primarily work with **Node.js and Express.js**, with experience working with d
 
 * JavaScript (ES6+)
 * TypeScript
-* SQL
 
 ### Backend
 
@@ -73,7 +69,6 @@ I primarily work with **Node.js and Express.js**, with experience working with d
 
 * MongoDB
 * PostgreSQL
-* MySQL
 
 ### Frontend
 
@@ -112,7 +107,7 @@ A backend service for a food ordering and kitchen management platform.
 
 ---
 
-### 🛒 E-Commerce Backend API
+### 🛒 FOODTECH Backend API
 
 A backend system designed to support an e-commerce application.
 
